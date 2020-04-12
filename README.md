@@ -16,7 +16,7 @@
 
 
 ### c. Графики
-1. **Точность**\
+1. **Точность (тестовые данные)**\
 ![Accuracy](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Accuracy.png)
-2. **Ошибка**\
+2. **Ошибка (тренировочные данные)**\
 ![Loss](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Loss.png)
