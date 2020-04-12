@@ -7,12 +7,14 @@
 
 
 ### b. Параметры обучения
-batch size = 4
-
+batch size : 4
+convolutional layers : 2
+  a. первый имеет 3 входа и 6 выходов
+  b. второй имеет 6 входов и выходов
 
 
 ### c. Графики
-Точность\
+1. **Точность**\
 ![Accuracy](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Accuracy.png)\
-Ошибка\
+2. **Ошибка**\
 ![Loss](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Loss.png)\
