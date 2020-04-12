@@ -12,7 +12,7 @@ batch size = 4
 
 
 ### c. Графики
-Точность
-![Accuracy](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Accuracy.png)
-Ошибка
-![Loss](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Loss.png)
+Точность\
+![Accuracy](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Accuracy.png)\
+Ошибка\
+![Loss](https://github.com/temp-rw/Neural_Networks/blob/master/Graphs/Loss.png)\
